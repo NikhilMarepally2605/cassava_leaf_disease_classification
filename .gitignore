@@ -1,0 +1,4 @@
+test_images/
+test_tfrecords/
+train_images/
+train_tfrecords/
